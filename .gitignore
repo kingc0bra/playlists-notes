@@ -1,0 +1,22 @@
+# .gitignore --- Configures files to ignore from this Git repository.
+
+# --------------------
+# Generated Files
+# --------------------
+public_html
+
+
+# --------------------
+# IDE Cruft
+# --------------------
+.idea
+.vscode
+.dir-locals.el
+*.iml
+
+
+# --------------------
+# Misc.
+# --------------------
+.DS_Store
+*~

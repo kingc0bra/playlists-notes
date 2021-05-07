@@ -1,0 +1,209 @@
+#+TITLE: Dead Tapes
+
+* 1969-03-01 - Fillmore West, San Francisco, CA                  :soundboard:
+    :PROPERTIES:
+    :date:                1969-03-01
+    :lma_id:              gd69-03-01.sbd.16track.kaplan.4030.sbeok.shnf
+    :relisten_source_id:  87997
+    :heady_id:            81
+    :END:
+
+* 1970-02-14 - Fillmore East, Early Show New York, NY            :soundboard:
+    :PROPERTIES:
+    :date:                1970-02-14
+    :lma_id:              gd1970-02-14.sbd.miller.97644.flac16
+    :relisten_source_id:  88556
+    :heady_id:            608
+    :END:
+
+* 1971-07-02 - Fillmore West, San Francisco, CA                  :soundboard:
+    :PROPERTIES:
+    :date:                1971-07-02
+    :lma_id:              gd71-07-02.sbd.backus.11798.sbeok.shnf
+    :relisten_source_id:  89390
+    :heady_id:            1088
+    :END:
+
+* 1974-06-16 - Des Moines State Fair Grandstand, Des Moines, IA  :soundboard:
+    :PROPERTIES:
+    :date:                1974-06-16
+    :lma_id:              gd74-06-16.sbd.fink.17701.sbeok.shnf
+    :relisten_source_id:  90613
+    :heady_id:            507
+    :END:
+
+* 1974-06-28 - Boston Garden, Boston, MA
+    :PROPERTIES:
+    :date:                1974-06-28
+    :lma_id:              gd74-06-28.moore.weiner.gdADT18.16038.sbeok.shnf
+    :relisten_source_id:  90420
+    :heady_id:            448
+    :END:
+
+* 1976-12-31 - Cow Palace, Daly City, CA
+    :PROPERTIES:
+    :date:                1976-12-31
+    :lma_id:              gd76-12-31.preFM.warner.18524.20760.sbeok.shnf
+    :relisten_source_id:  90770
+    :heady_id:            46
+    :END:
+
+* 1977-05-05 - Veterans Memorial Coliseum, New Haven, CT         :soundboard:
+    :PROPERTIES:
+    :date:                1977-05-05
+    :lma_id:              gd77-05-05.sbd.stephens.8832.sbeok.shnf
+    :relisten_source_id:  91169
+    :heady_id:            511
+    :END:
+
+* 1977-05-08 - Barton Hall, Cornell University, Ithaca, NY       :soundboard:
+    :PROPERTIES:
+    :date:                1977-05-08
+    :lma_id:              gd77-05-08.sbd.hicks.4982.sbeok.shnf
+    :relisten_source_id:  90919
+    :heady_id:            1
+    :END:
+
+* 1977-05-09 - War Memorial Auditorium, Buffalo, NY              :soundboard:
+    :PROPERTIES:
+    :date:                1977-05-09
+    :lma_id:              gd77-05-09.sbd.connor.8304.sbeok.shnf
+    :relisten_source_id:  91107
+    :heady_id:            25
+    :END:
+
+* 1978-04-14 - Cassell Coliseum, Virginia Polytechnic U., Blacksburg, VA :soundboard:
+    :PROPERTIES:
+    :date:                1978-04-14
+    :lma_id:              gd1978-04-14.sbd.miller.83717.sbeok.flac16
+    :relisten_source_id:  91504
+    :heady_id:            1175
+    :END:
+
+* 1978-07-07 - Red Rocks Amphitheatre, Morrison, CO              :soundboard:
+    :PROPERTIES:
+    :date:                1978-07-07
+    :lma_id:              gd78-07-07.sbd.jerugim.293.sbeok.shnf
+    :relisten_source_id:  91450
+    :heady_id:            101
+    :END:
+
+* 1979-10-27 - Cape Cod Coliseum, South Yarmouth, MA             :soundboard:
+    :PROPERTIES:
+    :date:                1979-10-27
+    :lma_id:              gd79-10-27.sbd.clugston.13980.sbeok.shnf
+    :relisten_source_id:  91705
+    :heady_id:            361
+    :END:
+
+* 1980-10-10 - Warfield Theater, San Francisco, CA
+    :PROPERTIES:
+    :date:                1980-10-10
+    :lma_id:              gd1980-10-10.mtx.chappell.sb03.28740.flac16
+    :relisten_source_id:  92086
+    :heady_id:            145
+    :END:
+
+* 1981-10-06 - Rainbow Theatre, London, England                  :soundboard:
+    :PROPERTIES:
+    :date:                1981-10-06
+    :lma_id:              gd1981-10-06.sbd.miller.103627.flac16
+    :relisten_source_id:  92894
+    :heady_id:            624
+    :END:
+
+* 1985-03-31 - Cumberland County Civic Center, Portland, ME
+    :PROPERTIES:
+    :date:                1985-03-31
+    :lma_id:              gd85-03-31.oade.connor.8244.sbeok.shnf
+    :relisten_source_id:  95288
+    :heady_id:            1337
+    :END:
+
+* 1985-06-28 - Hershey Park Stadium, Hershey, PA                 :soundboard:
+    :PROPERTIES:
+    :date:                1985-06-28
+    :lma_id:              gd85-06-28.sbd.lemon2.5822.sbeok.shnf
+    :relisten_source_id:  94745
+    :heady_id:            238
+    :END:
+
+* 1985-09-07 - Red Rocks Amphitheatre, Morrison, CO              :soundboard:
+    :PROPERTIES:
+    :date:                1985-09-07
+    :lma_id:              gd85-09-07.sbd.miller.18102.sbeok.shnf
+    :relisten_source_id:  94921
+    :heady_id:            219
+    :END:
+
+* 1985-11-02 - Richmond Coliseum, Richmond, VA                   :soundboard:
+    :PROPERTIES:
+    :date:                1985-11-02
+    :lma_id:              gd85-11-02.sbd.jim.14604.sbeok.shnf
+    :relisten_source_id:  95111
+    :heady_id:            690
+    :END:
+
+* 1989-04-02 - Civic Arena, Pittsburgh, PA                       :soundboard:
+    :PROPERTIES:
+    :date:                1989-04-02
+    :lma_id:              gd89-04-02.sbd-matrix.mattman.17177.sbeok.shnf
+    :relisten_source_id:  97047
+    :heady_id:            1275
+    :END:
+
+* 1990-03-19 - Hartford Civic Center, Hartford, CT               :soundboard:
+    :PROPERTIES:
+    :date:                1990-03-19
+    :lma_id:              gd90-03-19.prefm-sbd.sacks.1526.sbeok.shnf
+    :relisten_source_id:  97968
+    :heady_id:            379
+    :END:
+
+* 1991-09-10 - Madison Square Garden, New York, NY               :soundboard:
+    :PROPERTIES:
+    :date:                1991-09-10
+    :lma_id:              gd91-09-10.sbd.sacks.511.sbeok.shnf
+    :relisten_source_id:  98553
+    :heady_id:            325
+    :END:
+
+* 1992-06-20 - RFK Stadium, Washington, DC                       :soundboard:
+    :PROPERTIES:
+    :date:                1992-06-20
+    :lma_id:              gd92-06-20.dsbd.gardner.2207.sbefail.shnf
+    :relisten_source_id:  98840
+    :heady_id:            329
+    :END:
+
+* 1992-12-11 - Oakland-Alameda County Coliseum, Oakland, CA      :soundboard:
+    :PROPERTIES:
+    :date:                1992-12-11
+    :lma_id:              gd92-12-11.sbd-2track.scott.9534.sbeok.shnf
+    :relisten_source_id:  99158
+    :heady_id:            1097
+    :END:
+
+* 1993-03-18 - Capital Centre, Landover, MD                      :soundboard:
+    :PROPERTIES:
+    :date:                1993-03-18
+    :lma_id:              gd1993-03-18.dsbd.miller.79070.sbeok.flac16
+    :relisten_source_id:  99607
+    :heady_id:            1594
+    :END:
+
+* 1993-03-24 - Dean Smith Center, Chapel Hill, NC                :soundboard:
+    :PROPERTIES:
+    :date:                1993-03-24
+    :lma_id:              gd93-03-24.sbd.keyser.25664.sbeok.flacf
+    :relisten_source_id:  99228
+    :heady_id:            96
+    :END:
+
+* 1995-07-09 - Soldier Field, Chicago, IL                        :soundboard:
+    :PROPERTIES:
+    :date:                1995-07-09
+    :lma_id:              gd95-07-09.sbd.7233.sbeok.shnf
+    :relisten_source_id:  284766
+    :heady_id:            198
+    :END:
