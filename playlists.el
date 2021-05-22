@@ -57,7 +57,7 @@ See `org-html-format-headline-function' for details."
          (relisten_id (org-macro--get-property "relisten_source_id" text))
          (tags (if tags (org-html--tags tags info) ""))
          (mod_text
-          (format "<span class=\"heading\">\n  %s</span><span class=\"tags\">%s</span><span class=\"sub-heading\">\n<ul>%s%s%s%s\n</ul></span>"
+          (format "<span class=\"heading\">\n  %s</span><span class=\"tags\">%s</span><span class=\"sub-heading\">\n<ul>%s%s%s%s%s\n</ul></span>"
                   text
                   (concat (and tags "&#xa0;") tags)
                   (li (link (format "https://archive.org/details/%s" lma_id) "archive"))
@@ -65,18 +65,25 @@ See `org-html-format-headline-function' for details."
                                     (replace-regexp-in-string "-" "/" date)
                                     relisten_id)
                             "relisten"))
-                  
+                  (li (link (concat "https://www.dead.net/show/"
+                                    (downcase
+                                     (replace-regexp-in-string
+                                      " " "" (format-time-string "%B-%e-%Y"
+                                                                 (apply 'encode-time
+                                                                        (parse-time-string (concat date " 00:00")))))))
+                            "dead.net")) ;may-8-1977
                   (li (link (format "http://headyversion.com/show/%s/grateful-dead/%s" heady_id date)
                                     "headyversions"))
-                  (li (link (format "http://deadstats.com/shows/%s" date) "deadstats"))
-                  )))
+                  (li (link (format "http://deadstats.com/shows/%s" date) "deadstats")) )))
     mod_text))
+
+(setq org-export-global-macros '(
+  ("tagline" . "@@html:<div class=\"tagline\">$1</div>@@")))
 
 ;; publish entire site
 (add-to-list
  'org-publish-project-alist
  '("playlists" :components ("playlists-notes" "playlists-static")))
-
 
 ;; publish org documents
 (add-to-list
