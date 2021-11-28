@@ -57,7 +57,7 @@ See `org-html-format-headline-function' for details."
          (relisten_id (org-macro--get-property "relisten_source_id" text))
          (tags (if tags (org-html--tags tags info) ""))
          (mod_text
-          (format "<span class=\"heading\">\n  %s</span><span class=\"tags\">%s</span><span class=\"sub-heading\">\n<ul>%s%s%s%s%s\n</ul></span>"
+          (format "<span class=\"heading\">\n  %s</span><span class=\"tags\">%s</span><span class=\"sub-heading\">\n<ul>%s%s%s%s%s%s\n</ul></span>"
                   text
                   (concat (and tags "&#xa0;") tags)
                   (li (link (format "https://archive.org/details/%s" lma_id) "archive"))
@@ -73,8 +73,9 @@ See `org-html-format-headline-function' for details."
                                                                         (parse-time-string (concat date " 00:00")))))))
                             "dead.net")) ;may-8-1977
                   (li (link (format "http://headyversion.com/show/%s/grateful-dead/%s" heady_id date)
-                                    "headyversions"))
-                  (li (link (format "http://deadstats.com/shows/%s" date) "deadstats")) )))
+                            "headyversions"))
+                  (li (link (concat "http://www.gratefulseconds.com/search/label/" date) "gratefulseconds"))
+                  (li (link (concat "http://deadstats.com/shows/" date) "deadstats")) )))
     mod_text))
 
 (setq org-export-global-macros '(
