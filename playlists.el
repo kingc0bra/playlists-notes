@@ -72,15 +72,12 @@ See `org-html-format-headline-function' for details."
                              "dead.net")) ; may-8-1977
                   ,(li (link (format "http://headyversion.com/show/%s/grateful-dead/%s" heady_id date)
                              "headyversions"))
-                  ,(li (link (concat "http://www.gratefulseconds.com/search/label/" date) "gratefulseconds"))
+                  ;,(li (link (concat "http://www.gratefulseconds.com/search/label/" date) "gratefulseconds"))
                   ,(li (link (concat "http://deadstats.com/shows/" date) "deadstats")) ))
          (mod_text
           (string-join
            `("<span class=\"heading\">\n  "
              ,text
-             "</span>"
-             "<span class=\"tags\">&#xa0;"
-             ,(if tags (org-html--tags tags info) "")
              "</span><span class=\"sub-heading\">\n<ul>\n"
              ,(string-join links "\n")
              "\n</ul></span>") )
