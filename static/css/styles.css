@@ -1,0 +1,104 @@
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("IBM Plex Mono"),
+       local("IBMPlexMono"),
+       url("../fonts/woff2/IBMPlexMono-Regular.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local("IBM Plex Mono Italic"),
+       local("IBMPlexMono-Italic"),
+       url("../fonts/woff2/IBMPlexMono-Italic.woff2") format("woff2");
+}
+
+
+html {
+  box-sizing: border-box;
+  font-size: 1em;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#content {
+  width: 100%;
+  margin: 0 auto;
+  /*background-color: red;*/
+}
+
+.title {
+  font-style: italic;
+  font-size: 3em;
+}
+
+.sub-heading {
+  font-size: 0.5em;
+  display: inline;
+}
+
+.sub-heading ul li {
+  list-style: none;
+  display: inline;
+}
+
+.sub-heading li:after {
+  content: " \00b7";
+}
+
+.sub-heading li:last-child:after {
+  content: none;
+}
+
+.tag {
+  display: inline;
+  line-height: 1em;
+}
+
+.tag .soundboard {
+  background-color: limegreen;
+  border-radius: 0.25em;
+  padding: 0 0.25em;
+  font-size: 0.5em;
+  vertical-align: middle;
+}
+
+.tagline {
+  font-style: italic;
+}
+
+div.outline-2 {
+  margin-top: 2em;
+}
+
+#postamble {
+  margin-top: 2em;
+}
+
+.outline-text-2 p {
+  padding-top: 1em;
+  padding-bottome: 1em;
+}
+
+.org-ul {
+  margin-left: 2em;
+}

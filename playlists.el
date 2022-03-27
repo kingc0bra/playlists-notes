@@ -1,4 +1,4 @@
-;;; playlists.el --- Utilities for managing curated playlists.  -*- lexical-binding: t; -*-
+;;; playlists.el --- Utilities for managing curated Grateful Dead playlists.  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2021  JT
 
@@ -128,8 +128,8 @@ See `org-html-format-headline-function' for details."
 (add-to-list
  'org-publish-project-alist
  `("playlists-static"
-   :base-directory ,(concat (file-name-as-directory playlists/project-root) "org")
-   :base-extension "css\\|js"
+   :base-directory ,(concat (file-name-as-directory playlists/project-root) "static")
+   :base-extension "css\\|js\\|woff2\\|txt"
    :publishing-directory ,playlists/publish-directory
    :recursive t
    :publishing-function org-publish-attachment
