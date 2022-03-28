@@ -109,13 +109,14 @@ See `org-html-format-headline-function' for details."
   :with-properties nil
   :with-tags t
   :with-timestamps nil
-  :with-title t
+  :with-title nil
   :with-toc nil
   :html-doctype "html5"
   :html-head-include-default-style nil
   :html-head-include-scripts nil
   :html-head "<link rel=\"stylesheet\" href=\"css/styles.css\">"
   :html-self-link-headlines nil
+  :html-preamble "<div class=\"header\"><h1 class=\"title\">%t</h1></div>"
   :html-postamble "<div class=\"footer\"></div>"
   :html5-fancy t
   ))
