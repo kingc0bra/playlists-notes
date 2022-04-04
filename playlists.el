@@ -55,6 +55,7 @@ See `org-html-format-headline-function' for details."
          (heady_id (org-macro--get-property "heady_id" text))
          (lma_id (org-macro--get-property "lma_id" text))
          (relisten_id (org-macro--get-property "relisten_source_id" text))
+         (apple_music_url (org-macro--get-property "apple_music_url" text))
          (links `(
                   ,(li (link (format "https://archive.org/details/%s" lma_id) "archive"))
                   ,(li (link (format "https://relisten.net/grateful-dead/%s?source=%s"
@@ -70,16 +71,19 @@ See `org-html-format-headline-function' for details."
                                         (apply 'encode-time
                                           (parse-time-string (concat date " 00:00")))))))
                              "dead.net")) ; may-8-1977
-                  ,(li (link (format "http://headyversion.com/show/%s/grateful-dead/%s" heady_id date)
-                             "headyversions"))
+                  ,(when heady_id
+                     (li (link
+                          (format "http://headyversion.com/show/%s/grateful-dead/%s" heady_id date)
+                          "headyversions")) )
                   ;,(li (link (concat "http://www.gratefulseconds.com/search/label/" date) "gratefulseconds"))
-                  ,(li (link (concat "http://deadstats.com/shows/" date) "deadstats")) ))
+                  ,(li (link (concat "http://deadstats.com/shows/" date) "deadstats"))
+                  ,(when apple_music_url (li (link apple_music_url "apple music"))) ))
          (mod_text
           (string-join
            `("<span class=\"heading\">\n  "
              ,text
              "</span><span class=\"sub-heading\">\n<ul>\n"
-             ,(string-join links "\n")
+             ,(string-join links "\n") ;;; TODO: filter links here
              "\n</ul></span>") )
           ))
     mod_text))
