@@ -1,0 +1,245 @@
+#+TITLE: Europe '72
+#+SUBTITLE: the entire tour
+
+* 1972-04-07 - Wembley Empire Pool, London, England
+  :PROPERTIES:
+  :lma_id:              gd72-04-07.aud.sirmick.31329.sbeok.flacf
+  :relisten_source_id:  89968
+  :date:                1972-04-07
+  :custom_id:           gd-1972-07
+  :soundboard:          False
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-1-4-7-72-live-at-wembley-empire-pool/780189659
+  :heady_id:            1070
+  :END:
+
+* 1972-04-08 - Wembley Empire Pool, London, England
+  :PROPERTIES:
+  :lma_id:              gd1972-04-08.sbd.hamilton.2185.sbeok.shnf
+  :relisten_source_id:  89710
+  :date:                1972-04-08
+  :custom_id:           gd-1972-04-08
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-2-4-8-72-live-at-wembley-empire-pool/780191275
+  :heady_id:            524
+  :END:
+
+* 1972-04-11 - Newcastle City Hall, Newcastle, England
+  :PROPERTIES:
+  :lma_id:              gd1972-04-11.sbd.thecore.4640.shnf
+  :relisten_source_id:  336047
+  :date:                1972-04-11
+  :custom_id:           gd-1972-04-11
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-3-4-11-72-live-at-city-hall-newcastle-england/780184752
+  :heady_id:            528
+  :END:
+
+* 1972-04-14 - Tivoli Theater, Copenhagen, Denmark
+  :PROPERTIES:
+  :lma_id:              gd1972-04-14.sbd.sacks.140.shnf
+  :relisten_source_id:  336067
+  :date:                1972-04-14
+  :url:                 https://archive.org/details/gd1972-04-14.sbd.sacks.140.shnf
+  :playlist:            https://archive.org/download/gd1972-04-14.sbd.sacks.140.shnf/gd1972-04-14.sbd.sacks.140.shnf_vbr.m3u
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-4-4-14-72-tivoli-concert-hall-copenhagen/780183678
+  :heady_id:            135
+  :END:
+
+* 1972-04-16 - Aarhus U., Aarhus, Denmark
+  :PROPERTIES:
+  :lma_id:              gd1972-04-16.pset2-sbd.vernon.9196.sbeok.shnf
+  :relisten_source_id:  89981
+  :date:                1972-04-16
+  :custom_id:           gd-1972-04-16
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-5-4-16-72-stakladen-aarhus-university/780178680
+  :heady_id:            818
+  :END:
+
+* 1972-04-17 - Tivoli Gardens, Copenhagen, Denmark
+  :PROPERTIES:
+  :lma_id:              gd1972-04-17.136685.sbd.sirmick.flac1648
+  :relisten_source_id:  90018
+  :date:                1972-04-17
+  :custom_id:           gd-1972-04-17
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-6-4-17-72-live-at-tivoli-concert-hall/878029600
+  :heady_id:            399
+  :END:
+
+* 1972-04-21 - Beat Club, Bremen, Germany
+  :PROPERTIES:
+  :lma_id:              gd1972-04-21.116404.sbd.berger.sndchk.flac16
+  :relisten_source_id:  336052
+  :date:                1972-04-21
+  :custom_id:           gd-1972-04-21
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-7-4-21-72-beat-club-bremen-west-germany/878028049
+  :heady_id:            985
+  :END:
+
+* 1972-04-24 - Rheinhalle, Duesseldorf, Germany
+  :PROPERTIES:
+  :lma_id:              gd1972-04-24.aud.unknown.6956.sbeok.shnf
+  :relisten_source_id:  336227
+  :date:                1972-04-24
+  :custom_id:           gd-1972-04-24
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-8-4-24-72-rheinhalle-dusseldorf-west-germany/878030106
+  :heady_id:            737
+  :END:
+
+* 1972-04-26 - Jahrhundert Halle, Frankfurt, Germany
+  :PROPERTIES:
+  :lma_id:              gd1972-04-26.136637.sbd.mr.sirmickflac1648
+  :relisten_source_id:  336106
+  :date:                1972-04-26
+  :custom_id:           gd-1972-04-26
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-9-4-26-72-jahrhundert-halle-frankfurt/878028485
+  :heady_id:            471
+  :END:
+
+* 1972-04-29 - Musikhalle, Hamburg, Germany
+  :PROPERTIES:
+  :lma_id:              gd1972-04-29.sbd.sirmick.32877.sbeok.flac16
+  :relisten_source_id:  89705
+  :date:                1972-04-29
+  :custom_id:           gd-1972-04-29
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-10-4-29-72-musikhalle-hamburg-west-germany/878022743
+  :heady_id:            819
+  :END:
+
+* 1972-05-03 - Olympia Theater, Paris, France
+  :PROPERTIES:
+  :lma_id:              gd1972-05-03.139539.sbd.16.track.reels.miller.clugston.flac16
+  :relisten_source_id:  336182
+  :date:                1972-05-03
+  :custom_id:           gd-1972-05-03
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-11-5-3-72-lolympia-paris-france/944786977
+  :heady_id:            80
+  :END:
+
+* 1972-05-04 - Olympia Theater, Paris, France
+  :PROPERTIES:
+  :lma_id:              gd1972-05-04.152824.sbd.miller.sbeok.t-flac24
+  :relisten_source_id:  303869
+  :date:                1972-05-04
+  :custom_id:           gd-1972-05-04
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-12-5-4-72-lolympia-paris-france/944811077
+  :heady_id:            549
+  :END:
+
+* 1972-05-07 - Bickershaw Festival, Wigan, England
+  :PROPERTIES:
+  :lma_id:              gd1972-05-07.140896.sbd.2p.betty.pcm.dalton.miller.clugston.flac1644
+  :relisten_source_id:  336071
+  :date:                1972-05-07
+  :custom_id:           gd-1972-05-07
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-13-5-7-72-bickershaw-festival-wigan-england/945575608
+  :heady_id:            445
+  :END:
+
+* 1972-05-10 - Concertgebouw, Amsterdam, Netherlands
+  :PROPERTIES:
+  :lma_id:              gd72-05-10.sbd.kaplan.1582.sbeok.shnf
+  :relisten_source_id:  336198
+  :date:                1972-05-10
+  :custom_id:           gd-1972-05-10
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-14-5-10-72-concertgebouw-amsterdam-holland/947175867
+  :heady_id:            745
+  :END:
+
+* 1972-05-11 - Rotterdam Civic Hall, Rotterdam, Netherlands
+  :PROPERTIES:
+  :lma_id:              gd1972-05-11.sbd.giles.3830.shnf
+  :relisten_source_id:  336054
+  :date:                1972-05-11
+  :custom_id:           gd-1972-05-11
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-15-5-11-72-grote-zaal-de-doelen/945571633
+  :heady_id:            14
+  :END:
+
+* 1972-05-13 - Lille Fairgrounds, Lille, France
+  :PROPERTIES:
+  :lma_id:              gd72-05-13.psbd.miller.21725.sbeok.shnf
+  :relisten_source_id:  336153
+  :date:                1972-05-13
+  :custom_id:           gd-1972-05-13
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-16-5-13-72-lille-fairgrounds-lille-france-live/990359720
+  :heady_id:            51
+  :END:
+
+* 1972-05-16 - Studio du Grand Theatre, Luxembourg, Luxembourg
+  :PROPERTIES:
+  :lma_id:              gd1972-05-16.141754.fm.set1.dalton.miller.clugston.flac1644
+  :relisten_source_id:  336112
+  :date:                1972-05-16
+  :custom_id:           gd-1972-05-16
+  :soundboard:          False
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-17-5-16-72-la-grande-salle-du-grand-theatre/990039754
+  :heady_id:            739
+  :END:
+
+* 1972-05-18 - Kongressaal Deutsches Museum, Muenchen, Germany
+  :PROPERTIES:
+  :lma_id:              gd1972-05-18.sbd.smith.94581.sbeok.flac16
+  :relisten_source_id:  336186
+  :date:                1972-05-18
+  :custom_id:           gd-1972-05-18
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-18-5-18-72-kongressaal-munich-west-germany/990904451
+  :heady_id:            290
+  :END:
+
+* 1972-05-23 - The Strand Lyceum, London, England
+  :PROPERTIES:
+  :lma_id:              gd1972-05-23.sbd.lai.2581.shnf
+  :relisten_source_id:  336066
+  :date:                1972-05-23
+  :custom_id:           gd-1972-05-23
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-19-5-23-72-lyceum-theatre-london-england/990355457
+  :heady_id:            400
+  :END:
+
+* 1972-05-24 - The Strand Lyceum, London, England
+  :PROPERTIES:
+  :lma_id:              gd1972-05-24.aud.jones.macdonald.sirmick.24068.sbeok.shnf
+  :relisten_source_id:  336233
+  :date:                1972-05-24
+  :custom_id:           gd-1972-05-24
+  :soundboard:          False
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-20-5-24-72-lyceum-theatre-london-england/998054817
+  :heady_id:            984
+  :END:
+
+* 1972-05-25 - The Strand Lyceum, London, England
+  :PROPERTIES:
+  :lma_id:              gd1972-05-25.sbd.d1t3-fix.cribbs.26355.sbeok.shnf
+  :relisten_source_id:  336072
+  :date:                1972-05-25
+  :custom_id:           gd-1972-05-25
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-21-5-25-72-lyceum-theatre-london-england/1001282949
+  :heady_id:            401
+  :END:
+
+* 1972-05-26 - The Strand Lyceum, London, England
+  :PROPERTIES:
+  :lma_id:              gd1972-05-26.sbd.smith.94452.sbeok.flac16
+  :relisten_source_id:  336142
+  :date:                1972-05-26
+  :custom_id:           gd-1972-05-26
+  :soundboard:          True
+  :apple_music_url:     https://music.apple.com/us/album/europe-72-vol-22-5-26-72-lyceum-theatre-london-england/1001272416
+  :heady_id:            575
+  :END:
