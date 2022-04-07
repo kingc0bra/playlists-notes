@@ -30,10 +30,8 @@
 
 html {
   /*line-height: 1.5;*/
-  /*font-size: 20px;*/
   font-size: 18px;
   box-sizing: border-box;
-  /*font-size: 1em;*/
   color: #1a1a1a;
   background-color: #fdfdfd;
   font-family: "IBM Plex Mono", monospace;
@@ -83,6 +81,13 @@ img {
 
 h1.title {
   font-size: 3em;
+  font-family: "IBM Plex Serif", serif;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+h2.subtitle {
+  font-size: 1em;
   font-family: "IBM Plex Serif", serif;
   padding-top: 0;
   padding-bottom: 0;

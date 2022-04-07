@@ -1,6 +1,6 @@
 ;;; playlists.el --- Utilities for managing curated Grateful Dead playlists.  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2021  JT
+;; Copyright (C) 2021-2022  JT
 
 ;; Author: JT <jt@totallyjazzed.com>
 ;; Keywords: music, playlists
@@ -57,11 +57,12 @@ See `org-html-format-headline-function' for details."
          (relisten_id (org-macro--get-property "relisten_source_id" text))
          (apple_music_url (org-macro--get-property "apple_music_url" text))
          (links `(
-                  ,(li (link (format "https://archive.org/details/%s" lma_id) "archive"))
+                  ,(li (link (format "https://archive.org/details/%s" lma_id) "archive.org"))
                   ,(li (link (format "https://relisten.net/grateful-dead/%s?source=%s"
                                      (replace-regexp-in-string "-" "/" date)
                                      relisten_id)
                              "relisten"))
+                  ,(when apple_music_url (li (link apple_music_url "apple music")))
                   ,(li (link (concat "https://www.dead.net/show/"
                                      (downcase
                                       (replace-regexp-in-string
@@ -76,8 +77,7 @@ See `org-html-format-headline-function' for details."
                           (format "http://headyversion.com/show/%s/grateful-dead/%s" heady_id date)
                           "headyversions")) )
                   ;,(li (link (concat "http://www.gratefulseconds.com/search/label/" date) "gratefulseconds"))
-                  ,(li (link (concat "http://deadstats.com/shows/" date) "deadstats"))
-                  ,(when apple_music_url (li (link apple_music_url "apple music"))) ))
+                  ,(li (link (concat "http://deadstats.com/shows/" date) "deadstats")) ))
          (mod_text
           (string-join
            `("<span class=\"heading\">\n  "
@@ -104,6 +104,7 @@ See `org-html-format-headline-function' for details."
   :base-extension "org"
   :publishing-directory ,playlists/publish-directory
   :recursive t
+  :exclude "index.org"
   :publishing-function org-html-publish-to-html
   :html-format-headline-function playlists/format-headline
   :headlines-levels 2
@@ -120,7 +121,7 @@ See `org-html-format-headline-function' for details."
   :html-head-include-scripts nil
   :html-head "<link rel=\"stylesheet\" href=\"css/styles.css\">"
   :html-self-link-headlines nil
-  :html-preamble "<div class=\"header\"><h1 class=\"title\">%t</h1></div>"
+  :html-preamble "<div class=\"header\"><h1 class=\"title\">%t</h1><h2 class=\"subtitle\">%s</h2></div>"
   :html-postamble "<div class=\"footer\"></div>"
   :html5-fancy t
   ))
@@ -131,7 +132,7 @@ See `org-html-format-headline-function' for details."
  'org-publish-project-alist
  `("playlists-static"
    :base-directory ,(concat (file-name-as-directory playlists/project-root) "static")
-   :base-extension "css\\|js\\|woff2\\|txt"
+   :base-extension "css\\|js\\|html\\|woff2\\|txt"
    :publishing-directory ,playlists/publish-directory
    :recursive t
    :publishing-function org-publish-attachment
