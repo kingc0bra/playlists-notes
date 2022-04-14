@@ -82,6 +82,8 @@ img {
 h1.title {
   font-size: 3em;
   font-family: "IBM Plex Serif", serif;
+  font-style: italic;
+  font-weight: 600;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -89,6 +91,8 @@ h1.title {
 h2.subtitle {
   font-size: 1em;
   font-family: "IBM Plex Serif", serif;
+  font-style: italic;
+  font-weight: 600;
   padding-top: 0;
   padding-bottom: 0;
 }
